@@ -1,0 +1,22 @@
+# 忽略系统默认生成的文件——单个文件夹的
+# 将具体路径和文件加进来
+.idea/awesome-python-io.iml
+.idea/encodings.xml
+.idea/markdown-navigator.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/markdown-navigator/profiles_settings.xml
+
+
+# 忽略测试代码-整个文件夹
+# 将整个文件路径加进来
+/test-ex-do-no-git/
+/.idea/dash-project.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/other.xml
+/.idea/dataSources.xml
+/.idea/sqldialects.xml
