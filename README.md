@@ -20,6 +20,8 @@
 ### 前后端开发
 - [前后端开发](./前后端开发) - Web开发相关笔记，包括前端基础、Promise、React、Webpack等
 
+### 大数据与云计算
+- [医疗大数据](./医疗大数据) - 医疗大数据智慧树课程笔记，涵盖大数据基础概念、Hadoop生态系统、HDFS、HBase、MapReduce、Hive等
+
 ### 其他
 - [杂项](./杂项) - 其他学习笔记，包括Git、Shell、Markdown、Makefile等工具使用
-
